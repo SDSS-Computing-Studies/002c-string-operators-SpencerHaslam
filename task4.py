@@ -3,7 +3,7 @@
 # Output should read:
 # This little piggy went to market.
 
-subject = "This little piggy"
+subject = "This little piggy "
 verb = "went "
 preposition = "to "
 pronoun = "market"
