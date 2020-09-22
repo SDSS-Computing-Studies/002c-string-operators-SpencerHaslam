@@ -3,6 +3,6 @@
 start = "here "
 word = "kitty "
 
-result = start + word * 4 
+result = start + word * 3
 
 print(result)
