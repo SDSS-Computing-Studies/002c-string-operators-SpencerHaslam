@@ -1,6 +1,6 @@
 #!python3
 
-start = "here "
+start = "here, "
 word = "kitty "
 
 result = start + word * 3
